@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hding.tech</id>
     <title>文鼎清谈</title>
-    <updated>2020-05-19T22:24:26.282Z</updated>
+    <updated>2020-05-19T22:50:31.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.hding.tech"/>
     <link rel="self" href="https://www.hding.tech/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://www.hding.tech/images/avatar.png</logo>
     <icon>https://www.hding.tech/favicon.ico</icon>
     <rights>All rights reserved 2020, 文鼎清谈</rights>
+    <entry>
+        <title type="html"><![CDATA[华为冤吗？]]></title>
+        <id>https://www.hding.tech/post/hua-wei-yuan-ma/</id>
+        <link href="https://www.hding.tech/post/hua-wei-yuan-ma/">
+        </link>
+        <updated>2020-05-19T22:28:07.000Z</updated>
+        <content type="html"><![CDATA[<p>最近美国对华为又开启了新一轮的制裁。<br>
+国内有很多同学替华为鸣不平，觉得华为作为一个高科技公司，好好做企业，却遭受政治上的打压，似乎是遭受了不白之冤。<br>
+但我看来，华为并不冤枉。</p>
+<p>首先，华为作为电信服务商确实会对美国带来安全隐患。<br>
+别扯什么品格道德之类的，在中国，只要技术上能够被中共利用，就一定会被利用。网警们能够监控腾讯聊天记录这早已是公开的秘密了。你说华为的品格道德会比腾讯高到哪里去？会承受住中共的压力，保护用户隐私？反正我是不信。</p>
+<figure data-type="image" tabindex="1"><img src="https://www.hding.tech/post-images/1589928620872.png" alt="" loading="lazy"></figure>
+<p>其次，华为作为一家官商，必然会与其代理的中共收到类似的待遇。<br>
+官商又称白手套，在中国历史上已经有数百年的历史了。最近我又重温了一遍《大明王朝1566》，里面的沈一石，和后面的高翰文就是官商。再到清末的胡雪岩。这些“商人”依托背后强大的政治力量，在商场无往不利。并通过官员的亲属、朋友为官员输送利益。这也算是一种中国特色吧。媒体有官媒，商人有官商。就像人民日报等官方媒体被美国政府认定为官方政治团体予以限制和驱逐一样，华为这样的官商被美国进行制裁并不奇怪。</p>
+<p>再次，及时华为没有与中国官员勾结，也应该为其政治上的“不作为”付出相应代价。<br>
+在中国这样的专制独裁政府下，人们习惯于“闷声发大财”。为了避免被中共找麻烦，在政治上宁愿表现又红又专，也不敢呼吁自由与民主。但是作为一个体量如此大的企业，理应承担起相应的社会责任。不愿意站出来为自由民主，为普罗大众鼓与呼的华为，受到制裁也是得到与其德性相匹配的下场。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复工与债务]]></title>
         <id>https://www.hding.tech/post/fu-gong-yu-zhai-wu/</id>
